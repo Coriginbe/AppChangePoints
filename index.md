@@ -1,4 +1,4 @@
-# [AppChangePoints](https://github.com/Coriginbe/coriginbe.github.io/AppChangePoints)
+# [AppChangePoints](https://github.com/Coriginbe/AppChangePoints)
 
 ### App 更新要点
 
