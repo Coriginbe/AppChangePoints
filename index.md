@@ -16,7 +16,21 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 ---
 
-### 哔哩哔哩 Bilibili
+### bilibili（com.bilibili.app.in）
+
+- **GP-Ver. 3.19.0**
+  - 视频详情页中，视频信息间距减小
+  - 非 WiFi 环境播放视频提示中，增加免流服务推广按钮
+  - WiFi 环境下，视频全屏播放中，右上角 WiFi 图标 由“WIFI”改为“wifi”
+  - 视频全屏播放中，时间码位置调整至进度条起始处
+  - 视频全屏播放中，左右滑动调节视频进度样式改变
+  - 评论中超链接蓝色加深
+  - 增加一些英语翻译（Comment, Comment expand, Comment details）
+  - 自己发布的视频详情页增加「视频小工具」「创作小助手」
+  - 从个人主页打开的视频，详情页显示IP属地
+  - [Bug] 视频全屏返回详情页时，MIUI screen indicator（手势提示线）位置偏移至屏幕中央的概率增加
+
+### 哔哩哔哩（tv.danmaku.bili）
 
 - **CN-Ver. 6.25.0**  
   长按播放器支持倍速播放
