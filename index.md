@@ -18,7 +18,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 ### bilibili（com.bilibili.app.in）
 
-- **GP-Ver. 3.19.0**
+- **GP-Ver. 3.19.0**  
   - 视频详情页中，视频信息间距减小
   - 非 WiFi 环境播放视频提示中，增加免流服务推广按钮
   - WiFi 环境下，视频全屏播放中，右上角 WiFi 图标 由“WIFI”改为“wifi”
@@ -63,6 +63,13 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 - **CN-Ver. 7.13.81 (357)**  
   Target API 更新至 33
+
+- **CN-Ver. 7.15.60**  
+  可发布已下架的小刀优惠商品
+
+- **CN-Ver. 7.15.70**  
+  - 「我的」页 UI 改版  
+  - 编辑已发布商品或已下架商品时，可设置小刀优惠
 
 ### 微信 WeChat
 
