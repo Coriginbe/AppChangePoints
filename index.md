@@ -14,6 +14,8 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 - [Bilibili](https://www.bilibili.com/) [@玄离199](https://space.bilibili.com/67079745/)  
 - [微信公众号](https://mp.weixin.qq.com/) @百分之千 （微信号：bfzq55）
 
+### [项目更新日志](Changelog.md)
+
 ---
 
 ### bilibili（com.bilibili.app.in）
