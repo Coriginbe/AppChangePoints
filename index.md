@@ -1,14 +1,14 @@
-# [AppChangePoints](https://github.com/Coriginbe/AppChangePoints)
+# [AppVersionPoints](https://github.com/Coriginbe/AppVersionPoints)
 
-### App 更新要点
+### App 版本要点
 
-该项目旨在记录部分手机 App 的更新内容，方便用户选择合适的 App 版本。App 以 Android 端版本为准。
+该项目旨在记录手机 App 不同版本的特点，方便用户选择合适的 App 版本。App 以 Android 端版本为准。
 
 GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
-记录不包含完整的更新内容，主要选取部分重要的更新点作记录。由于项目所有者的能力和精力有限，选取标准较为主观，无法较为全面地记录各个版本的要点。  
+记录不包含完整的版本更新内容，仅选取部分特点记录。由于项目所有者的能力和精力有限，选取标准较为主观，无法全面记录各版本的要点。  
 
-记录信息源于官方更新日志、项目所有者测试、平台创作者。  
+记录信息源于官方更新日志、项目所有者对比数据、媒体平台创作者内容。  
 
 #### 引用：  
 - [Bilibili](https://www.bilibili.com/) [@玄离199](https://space.bilibili.com/67079745/)  
